@@ -23,12 +23,12 @@ Focused on automation, CI/CD pipelines, and cloud infrastructure using modern De
 - Terraform  
 
 ### 💻 Programming & Scripting  
-- JavaScript (Node.js)  
-- Bash (basic)
+- Python  
+- Bash
 
 ### 🔧 Development Tools  
 - Git & GitHub  
-- Linux (basic)
+- Linux
 
 ---
 
